@@ -1,0 +1,46 @@
+#logo {
+    width: 15%;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+    text-decoration: none;
+}
+  
+/* visited link */
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+  
+/* mouse over link */
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+  
+/* selected link */
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+    .dark-blue-text {
+    color: #0A38F5;
+    }
+    .dark-pink-text {
+    color: #AC003A;
+    }
+    .dark-amber-text {
+    color: #ff6f00;
+    }
+    .dark-teal-text {
+    color: #004d40;
+    }
