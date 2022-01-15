@@ -26,3 +26,13 @@ a:active {
     color: white;
     text-decoration: none;
 }
+
+.carousel {
+    max-height: 700px;
+    overflow: hidden;
+}
+
+.carousel .item img {
+    width: 100%;
+    height: auto;
+  }
