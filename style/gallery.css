@@ -1,3 +1,17 @@
+/*
+
+File: gallery.css
+Authors: Tynan Hollyer
+tynan_hollyer@student.uml.edu
+
+Description: Jay Joseph gallery css file. 
+
+Credit:
+Proper Documentation copied from
+HW 1, Part 2, Author: Wenjin Zhou
+
+*/
+
 .newRow {
     display: flex;
     flex-wrap: wrap;

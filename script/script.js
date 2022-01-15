@@ -1,3 +1,17 @@
+/*
+
+File: script.js
+Authors: Tynan Hollyer
+tynan_hollyer@student.uml.edu
+
+Description: Jay Joseph script js file. 
+
+Credit:
+Proper Documentation copied from
+HW 1, Part 2, Author: Wenjin Zhou
+
+*/
+
 function onNonfiction() {
     $("#gallery").empty();
     $("#gallery").html(
