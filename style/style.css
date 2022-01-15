@@ -10,7 +10,42 @@ Credit:
 Proper Documentation copied from
 HW 1, Part 2, Author: Wenjin Zhou
 
+COLOR PALLET1:
+BLUE
+#438699
+
+WHITE
+#EBEEEE
+
+DARK BLUE
+#1F2D34
+
+DARK BLUE GREEN
+#26454A
+
+COLOR PALLET1:
+
+Racing Green
+#040906
+
+Caribbean Green
+#04D178
+
+Salem
+#10845C
+
 */
+
+body {
+    background-color: #10845C;
+    /*background-image: url("../assets/swirl-cropped-background.jpg");
+    /*background-size: cover;
+    background-position: center;*/
+}
+
+.navbarColors {
+    background-color: #040906;
+}
 
 #logo {
     width: 200px;
