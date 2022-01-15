@@ -26,9 +26,3 @@ a:active {
     color: white;
     text-decoration: none;
 }
-
-.carousel {
-    height: auto;
-    max-height: 700px;
-    overflow: hidden;
-}
